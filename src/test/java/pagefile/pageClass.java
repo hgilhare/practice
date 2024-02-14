@@ -40,6 +40,8 @@ public class pageClass {
 	public void user_clicked_on_login_button() {
 		WebElement loginbtn = driver.findElement(login);
 		loginbtn.click();
+		
+		/////jjjjjj
 	}
 
 	public void user_verify_sucessful_login() {
